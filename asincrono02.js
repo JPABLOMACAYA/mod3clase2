@@ -1,4 +1,4 @@
-//Instanciando un objeto con la hora local y fecha dew hoy.
+//Instanciando un objeto con la hora local y fecha de hoy.
 var ahora = new Date (); 
 
 //Creando un arreglo con los días de la semana.
